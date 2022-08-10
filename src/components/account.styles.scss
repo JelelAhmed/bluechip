@@ -1,0 +1,44 @@
+.account {
+	background: #E5E5E5;
+
+	position: absolute;
+	width: 938px;
+	height: 753px;
+	left: 352px;
+	top: 90px;
+
+	display: flex;
+
+	&-option {
+		box-sizing: border-box;
+
+		position: absolute;
+		top: 13.15%;
+		bottom: 80.18%;
+
+		background: #FFFFFF;
+		box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.1);
+
+		width: 937px;
+		
+		display: flex;
+		flex-direction: column;
+		align-items: flex-end;
+		
+		// span {
+		// }
+
+	}
+}
+
+// box-sizing: border-box;
+
+// position: absolute;
+// left: 24.44%;
+// right: 10.49%;
+// top: 13.15%;
+// bottom: 80.18%;
+
+// background: #FFFFFF;
+// box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.1);
+// border-radius: 5px;
